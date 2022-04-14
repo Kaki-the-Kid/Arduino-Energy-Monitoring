@@ -1,7 +1,7 @@
 # Arduino-Energy-Monitoring
-
-
 Projekt som anvender emonlib til at bruge Arduino til OpenEnergyMonitor systemet
+
+[TODO] Projekt formål
 
 # Tekst, copyright og licenser fra emonlib
 Git: https://github.com/openenergymonitor/EmonLib
