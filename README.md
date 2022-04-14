@@ -34,4 +34,3 @@ See blog post on using Arduino Due as energy monitor: http://boredomprojects.net
 # Open energy monitor
 
 https://openenergymonitor.org/
-
